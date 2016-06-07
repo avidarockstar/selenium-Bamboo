@@ -2,8 +2,8 @@
 /test-output/
 .settings
 velocity.log
-#.classpath
-#.project
+.classpath
+.project
 .DS_Store
 rules.pmd.xml
 
